@@ -17,7 +17,7 @@ I am a passionate C#/.NET Software Developer, driven by a curiosity for technolo
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,git,github,devto,vue,pinia,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,git,vue,pinia,js,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 

@@ -21,9 +21,9 @@ I am a passionate C#/.NET Software Developer, driven by a curiosity for technolo
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+- 🚀 Getting better as a Full Stack Web Development
   - Exploring the ins and outs of .Net and Vue for experiences.
-  - Building server-side applications with .Net, a powerful C# web framework.
+  - Building applications with .Net, a powerful C# web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
 <!--

@@ -17,7 +17,7 @@ I am a passionate C#/.NET Software Developer, driven by a curiosity for technolo
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,git,vue,pinia,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,git,vue,vuetify,pinia,js,jquery,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -35,6 +35,7 @@ I am a passionate C#/.NET Software Developer, driven by a curiosity for technolo
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://linkedin.com/npazylkhan)
+- [![Connect](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://linkedin.com/npazylkhan))
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 

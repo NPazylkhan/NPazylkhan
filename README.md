@@ -2,11 +2,9 @@
 
 I am a passionate C#/.NET Software Developer, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas.
 
-![NPazylkhan's Stats](https://github-readme-stats.vercel.app/api?username=NPazylkhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
-- 🔭 I'm currently working as C#/.NET Software Developer.
+- 🔭 I'm currently working as a C#/.NET Software Developer.
 <!--
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
@@ -25,6 +23,8 @@ I am a passionate C#/.NET Software Developer, driven by a curiosity for technolo
   - Exploring the ins and outs of .Net and Vue for experiences.
   - Building applications with .Net, a powerful C# web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
+
+![NPazylkhan's Stats](https://github-readme-stats.vercel.app/api?username=NPazylkhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!--
  ## 🏆 Achievements

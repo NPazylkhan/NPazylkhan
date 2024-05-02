@@ -35,7 +35,6 @@ I am a passionate C#/.NET Software Developer, driven by a curiosity for technolo
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://linkedin.com/npazylkhan)
-- [![Connect](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://linkedin.com/npazylkhan))
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
